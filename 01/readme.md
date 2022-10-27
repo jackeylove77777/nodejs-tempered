@@ -11,3 +11,6 @@ dotnet-exec main.cs > stdout.cs.log 2> stderr.cs.log
 其中input.txt为C#程序内设置的标准输入流来源文件
 output.txt为C#程序内设置的标准输出流文件
 err.txt程序内设置的标准错误流来源文件
+
+### 补充
+C#的Trace类可以实现类似console.trace()的跟踪输出
