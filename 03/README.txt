@@ -1,0 +1,4 @@
+js常见的定时操作就是通过setTimeout实现
+
+
+C#的定时器类主要用的是System.Timers命名空间的Timer类
