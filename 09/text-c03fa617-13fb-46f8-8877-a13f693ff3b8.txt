@@ -1,0 +1,2 @@
+using (var writer = File.CreateText("text.txt"))
+hausihashduasdhuasdhashi
