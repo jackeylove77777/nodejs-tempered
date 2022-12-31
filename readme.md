@@ -40,6 +40,10 @@
 * 外部应用程序的串联调用
 #### 16
 * 更灵活的exec
+#### 17
+* execFileSync,execSync,spawnSync
+#### 18
+* express
 
 
 
