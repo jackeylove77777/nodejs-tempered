@@ -44,6 +44,9 @@
 * execFileSync,execSync,spawnSync
 #### 18
 * express
+#### 19
+* 图片压缩
+
 
 
 

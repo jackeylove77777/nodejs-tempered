@@ -1,0 +1,3 @@
+注意要额外下载imagemin-jpegtran和imagemin-pngquant这两个插件
+
+如果CSHARP是普通的控制台程序，需要额外下载System.Drawing.Common
